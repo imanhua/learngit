@@ -2,6 +2,8 @@ sqlplus ¨CS user/passwd@10.xx.xx.xx:xxx/xxx >/dev/null <<EOF
 
 set serveroutput on
 
+
+dfsdfdsfs
 set feedback off
 
 set heading off
